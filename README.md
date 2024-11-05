@@ -28,7 +28,7 @@ https://github.com/hadijahumaira/StackOverflow_Crawler.git
   - Hasil Crawling akan disimpan di file `HasilCrawl_Request.csv`.
 
 #### **stackedoverflow_crawl_selenium.ipynb**:
-  - Gunakan notebook ini jika halaman Stack Overflow yang akan di-scrape mengandung konten dinamis.
+  - Gunakan notebook ini jika halaman Stack Overflow yang akan di-crawl mengandung konten dinamis.
   - Pastikan WebDriver yang sesuai (misalnya, ChromeDriver) sudah terinstal dan kompatibel dengan versi browser Anda.
   - Notebook ini menggunakan Selenium untuk mengotomatisasi browser dalam memuat setiap halaman pertanyaan, berinteraksi dengan elemen jika diperlukan, dan mengurai konten halaman.
   - Jalankan semua sel untuk melakukan crawling. Hasil Crawling akan disimpan dalam file `HasilCrawl_Selenium.csv`.
