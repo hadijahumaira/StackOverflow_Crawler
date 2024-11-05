@@ -4,7 +4,7 @@ Crawler ini digunakan untuk mengambil data link pertanyaan dari halaman stackove
 
 ## File 
 
-- **HasilCrawl_Request.csv**:  
+- **HasilCrawl_Request.csv** dan **HasilCrawl_Selenium.csv**:  
   File ini berisi URL dari pertanyaan-pertanyaan di Stack Overflow yang akan di-scrape. Setiap URL harus berada dalam satu baris di bawah kolom `Link_question`.
 
 - **stackedoverflow_crawl_request.ipynb**:  
