@@ -18,8 +18,7 @@ Crawler ini digunakan untuk mengambil data link pertanyaan dari halaman stackove
 ### 1. Clone Repository
 Clone repository ini ke dalam direktori lokal Anda:
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+https://github.com/hadijahumaira/StackOverflow_Crawler.git
 ```
 ### 2. Jalankan Notebook
 
